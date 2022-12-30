@@ -20,6 +20,19 @@
 
 <br/>
 
+<h2> 🗂️ 토이 프로젝트 </h2>
+
+### 1. PIU Dashboard
+>[PUMP IT UP](https://www.piugame.com/piu.xx/pumpitup/hardware.php) 플레이 성과 공유 커뮤니티 사이트 (개인 프로젝트)  
+>  
+>개발 기간: 2022/08/02 ~ 현재  
+>  
+>기술 스택(예정): Java 11 / Spring / Maven / MyBatis / MySQL  
+>  
+>[🔍상세 설명 링크](https://allchan.notion.site/PIU-Dashboard-Project-View-deb8d9445fef495097c1a63d9d652aff)
+
+<br/>
+
 <h2> 🗂️ 주요 프로젝트 </h2>
 
 ### 1. Spring MVC 게시판
@@ -42,17 +55,6 @@
 >기술 스택: Java 11 / Spring / Maven / MyBatis / MySQL  
 >  
 >[🔍상세 설명 링크](https://github.com/a11chan/cocktailer_1.0)
-
----
-
-### 3. PIU Dashboard
->[PUMP IT UP](https://www.piugame.com/piu.xx/pumpitup/hardware.php) 플레이 성과 공유 커뮤니티 사이트 (개인 프로젝트)  
->  
->개발 기간: 2022/08/02 ~ 현재  
->  
->기술 스택(예정): Java 11 / Spring / Maven / MyBatis / MySQL  
->  
->[🔍상세 설명 링크](https://allchan.notion.site/PIU-Dashboard-Project-View-deb8d9445fef495097c1a63d9d652aff)
 
 <br/>
 
