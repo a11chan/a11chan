@@ -65,7 +65,7 @@
 >  
 >기술 스택: HTML5 / CSS / SASS / JavaScript  
 >  
->[🔍상세 설명 링크](https://github.com/a11chan/my-momentum) | 
+>[🔍상세 설명 링크](https://github.com/a11chan/my-momentum)  
 >[⭐추가 학습 결과물](https://allchan.notion.site/JS-30ee746a17aa4c9f8a00ccc74333b22e)
 
 ---
@@ -88,7 +88,7 @@
 >  
 >기술 스택: HTML5 / CSS / JavaScript  
 >  
->[🔍상세 설명 링크](https://github.com/a11chan/kokoa-clone-2022) | 
+>[🔍상세 설명 링크](https://github.com/a11chan/kokoa-clone-2022)  
 >[⭐추가 학습 결과물](https://allchan.notion.site/cbdb362ca8424ef0b6d0aab5c103b05a)
 
 ---
@@ -100,5 +100,5 @@
 >  
 >기술 스택: HTML5 / CSS / SASS / JavaScript  
 >  
->[🔍상세 설명 링크](https://github.com/a11chan/cssLayoutMaster) | 
+>[🔍상세 설명 링크](https://github.com/a11chan/cssLayoutMaster)  
 >[⭐추가 학습 결과물](https://allchan.notion.site/CSS-Layout-98145607337440b9a17c0982476b6c2f)
