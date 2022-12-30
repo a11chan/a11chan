@@ -20,7 +20,7 @@
 
 <br/>
 
-<h2> 🗂️ 토이 프로젝트 </h2>
+<h2> 🎮 토이 프로젝트 </h2>
 
 ### 1. PIU Dashboard
 >[PUMP IT UP](https://www.piugame.com/piu.xx/pumpitup/hardware.php) 플레이 성과 공유 커뮤니티 사이트 (개인 프로젝트)  
