@@ -29,7 +29,7 @@
 >  
 >기술 스택(예정): Java 11 / Spring / Maven / MyBatis / MySQL  
 >  
->[🔍상세 설명 링크](https://allchan.notion.site/PIU-Dashboard-Project-View-deb8d9445fef495097c1a63d9d652aff)
+>[⭐상세 설명 링크](https://allchan.notion.site/PIU-Dashboard-Project-View-deb8d9445fef495097c1a63d9d652aff)
 
 <br/>
 
