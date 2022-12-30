@@ -6,7 +6,7 @@
 
 <br/>
 
-<h2> 🛠️ 기술 스택 </h2>
+<h2>🛠️기술 스택 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
@@ -20,7 +20,7 @@
 
 <br/>
 
-<h2> 🎮 토이 프로젝트 </h2>
+<h2> 🎮토이 프로젝트 </h2>
 
 ### 1. PIU Dashboard
 >[PUMP IT UP](https://www.piugame.com/piu.xx/pumpitup/hardware.php) 플레이 성과 공유 커뮤니티 사이트 (개인 프로젝트)  
@@ -33,7 +33,7 @@
 
 <br/>
 
-<h2> 🗂️ 메인 프로젝트 </h2>
+<h2> 🗂️메인 프로젝트 </h2>
 
 ### 1. Spring MVC 게시판
 >로그인, 회원가입, 게시글, 댓글 CRUD 구현 (개인 프로젝트)  
@@ -58,7 +58,7 @@
 
 <br/>
 
-<h2> 📂 그 외 개인 프로젝트 </h2>
+<h2> 📂그 외 개인 프로젝트 </h2>
 
 ### 1. Chrome Momentum Clone
 >크롬 앱 Momentum 클론 프로젝트  
