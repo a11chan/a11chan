@@ -1,8 +1,8 @@
-<h1>얼개를 잡아가는 개발자, 양현석입니다.</h1>
+<h1>배우고 익히고 만드는 사람</h1>
 
->얼개는 짜임새나 구조이며, 무언가를 만들 때의 설계도입니다.  
->개발자가 되기 전엔 Excel로 얼개를 짜고 필요한 것을 만들어 배포해왔습니다.  
->이제는 Java를 주된 기술로 하여 만들어가고자 합니다.  
+>안녕하세요, 신입 개발자 양현석입니다.  
+>문제 해결을 위해 필요한 도구를 만들고 공유합니다.  
+>여러 지역을 다니며 일한 덕분에 배우고 적응하는 데에 익숙합니다.  
 
 <br/>
 
@@ -20,31 +20,18 @@
 
 <br/>
 
-<h2> 🎮 토이 프로젝트 </h2>
+<h2> 🗂️ 프로젝트 </h2>
 
-### 1. PIU Dashboard
+### 1. PIU Dashboard (개발중)
 >[PUMP IT UP](https://www.piugame.com/piu.xx/pumpitup/hardware.php) 플레이 성과 공유 커뮤니티 사이트 (개인 프로젝트)  
 >  
 >개발 기간: 2022/08/02 ~ 현재  
 >  
->기술 스택(예정): Java 11 / Spring / Maven / MyBatis / MySQL  
->  
->[⭐상세 설명 링크](https://allchan.notion.site/PIU-Dashboard-Project-View-deb8d9445fef495097c1a63d9d652aff)
-
-<br/>
-
-<h2> 🗂️ 메인 프로젝트 </h2>
-
-### 1. Spring MVC 게시판
->로그인, 회원가입, 게시글, 댓글 CRUD 구현 (개인 프로젝트)  
->  
->개발 기간: 2022/09/15 ~ 2022/11/22 (강의 수강기간 포함)  
->  
 >기술 스택: Java 11 / Spring / Maven / MyBatis / MySQL  
 >  
->[🔍상세 설명 링크](https://github.com/a11chan/springJungSuk_ch4_1)
+>[🔍상세 설명 링크](https://allchan.notion.site/PIU-Dashboard-Project-View-deb8d9445fef495097c1a63d9d652aff)
 
----
+<br/>
 
 ### 2. COCKTAILER
 >럼 소개 및 칵테일 관련 체험행사 예약 사이트 (팀→개인 프로젝트)  
@@ -58,9 +45,20 @@
 
 <br/>
 
-<h2> 📂 그 외 개인 프로젝트 </h2>
+<h2> 📂 개인 연습 </h2>
 
-### 1. Chrome Momentum Clone
+### 1. Spring MVC 게시판
+>로그인, 회원가입, 게시글, 댓글 CRUD 구현 (개인 프로젝트)  
+>  
+>개발 기간: 2022/09/15 ~ 2022/11/22 (강의 수강기간 포함)  
+>  
+>기술 스택: Java 11 / Spring / Maven / MyBatis / MySQL  
+>  
+>[🔍상세 설명 링크](https://github.com/a11chan/springJungSuk_ch4_1)
+
+---
+
+### 2. Chrome Momentum Clone
 >크롬 앱 Momentum 클론 프로젝트  
 >  
 >개발 기간: 2022/03/07 ~ 2022/03/21  
@@ -72,7 +70,7 @@
 
 ---
 
-### 2. paintJS
+### 3. paintJS
 >Canvas API 활용을 통한 그리기, 파일 저장 구현  
 >  
 >개발 기간: 2022/03/16 ~ 2022/04/14  
@@ -83,7 +81,7 @@
 
 ---
 
-### 3. Kokoa Talk 2022 Clone  
+### 4. Kokoa Talk 2022 Clone  
 >카카오톡 UI 클론 프로젝트
 >  
 >개발 기간: 2022/02/14 ~ 2022/02/27  
@@ -95,7 +93,7 @@
 
 ---
 
-### 4. CSS Layout Master  
+### 5. CSS Layout Master  
 >10개 웹사이트 CSS 레이아웃 클론코딩
 >  
 >개발 기간: 2022/02/21 ~ 2022/03/07  
